@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_LL_DYTTnEfCO2L69aq8Pgg" label="SIBLU" description="" language="java" technicalLabel="SIBLU" local="true" author="_LNb04DTnEfCO2L69aq8Pgg" productVersion="Talend Open Studio for ESB-8.8.8.20250514_0841-SNAPSHOT" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_LOC44DTnEfCO2L69aq8Pgg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_LNb04DTnEfCO2L69aq8Pgg" login="contact@deilink.fr" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

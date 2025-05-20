@@ -1,0 +1,4 @@
+PROJECT_GROUPID=org.example.siblu
+PROJECT_VERSION=8.8.8
+SKIP_LOOP_DEPENDENCY_CHECK=true
+eclipse.preferences.version=1

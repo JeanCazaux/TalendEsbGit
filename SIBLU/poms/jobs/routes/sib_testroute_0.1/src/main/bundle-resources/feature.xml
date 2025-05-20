@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="SIB_TestRoute-feature">
+    <feature name="SIB_TestRoute-feature" version="0.1.0">
+        <feature>camel-spring</feature>
+        <feature>camel-blueprint</feature>
+        <feature>camel-core</feature>
+        <bundle>mvn:org.example.siblu.route/SIB_TestRoute/0.1.0</bundle>
+        <config name="SIB_TestRoute.talendcontext.Default" override="true">
+PATH_PUSH=C:\fichier_cible
+PATH_SOURCE=D:\fichier_source
+FILE_EXT=TXT
+</config>
+    </feature>
+</features>
